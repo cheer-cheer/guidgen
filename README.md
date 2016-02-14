@@ -1,3 +1,3 @@
-# guidgen
+# Guid Generator
 
-# A replacement for Microsoft GUID Generator.
+## A replacement for Microsoft GUID Generator
